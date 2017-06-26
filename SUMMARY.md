@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [NPM](chapter1.md)
+* [Getting started](README.md)
+* [NPM](npm.md)
 
