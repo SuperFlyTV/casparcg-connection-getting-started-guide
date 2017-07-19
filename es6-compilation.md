@@ -6,7 +6,13 @@ Switching to ES2015 is easy, and done in less than a minute.
 
 You just need to change the `target`parameter of `tsconfig.json` to "ES66". At the same time, you should remove the settings for `experimentaldecorators`and `lib`, both which we just use for the current ES5 approach.
 
+Remember to rebuild once you have done the change to compile against the right setting.
 
+## ES5
 
+![](/assets/es5.png)
 
+## ES2015 \(ES6\)
+
+![](/assets/es6.png)
 
